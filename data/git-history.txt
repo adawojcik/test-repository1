@@ -1,0 +1,10 @@
+da9fa29 Moja trzecia zmiana
+44e47ce Merge branch 'main' of github.com:adawojcik/test-repository1
+16e2b9e Merge branch 'main' of github.com:adawojcik/test-repository1
+80ecb8e zmiany Norbert
+fc2d106 Moje drugie zmiany
+357472c zmiany Ada2
+ec2bb80 zmiany Norbert
+01aa632 Dodałem coś od siebie
+59d3857 zmiany Ada
+964b377 Initial commit
