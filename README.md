@@ -1,4 +1,4 @@
 # test-repository1
 
 
-Dodaje coś od siebie: Nikodem
+Dodaje coś od siebie: Nikodem M.
